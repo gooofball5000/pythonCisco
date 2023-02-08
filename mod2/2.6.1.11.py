@@ -1,7 +1,7 @@
 import time
 
 
-t = time()
+# t = time()
 
 hour = int(input("Starting time (hours): "))
 mins = int(input("Starting time (minutes): "))
