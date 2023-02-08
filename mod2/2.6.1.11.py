@@ -1,6 +1,5 @@
 import time
 
-
 # t = time()
 
 hour = int(input("Starting time (hours): "))
@@ -14,11 +13,48 @@ sec = mins
 
 secString = ""
 
-
-
 mins += dura
 result = hour, ":", mins
 stringResult = ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # def endTime(sec):
     
@@ -29,5 +65,3 @@ stringResult = ""
 
 # def stringTimeInSecs(sec):
 #     return secString
-
-
