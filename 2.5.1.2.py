@@ -8,7 +8,7 @@ secondsInHour = 3600 # number of seconds in 1 hour
 print("Hours: ", numHours)
 print("Seconds in Hours: ", numHours * secondsInHour) # printing the number of seconds in a given number of hours
 
-#TODO here we should also print "Goodbye", but a programmer didn't have time to write any code
+
 print("Goodbye")
 
 
